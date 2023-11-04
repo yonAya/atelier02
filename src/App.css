@@ -1,0 +1,23 @@
+table {
+  border: 1px solid gray;
+  border-spacing: 0px;
+  border-radius: 5px;
+}
+
+td {
+  border: 1px solid gray;
+  padding: 3px;
+}
+
+th {
+  background-color: green;
+  color: white;
+  padding: 5px;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
